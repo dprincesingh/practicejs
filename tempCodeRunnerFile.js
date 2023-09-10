@@ -1,1 +1,0 @@
- arr = string.split(" ")
